@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/30 09:31:44.000.440,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/30 10:07:55.000.006,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/30 10:13:13.000.329,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/18 10:10:27.000.365,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/08 15:41:03.000.765,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/14 17:15:27.000.115,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/15 09:33:25.000.903,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/23 13:59:22.000.648,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/21 16:21:04.000.025,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/10 14:41:23.000.295,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/10 14:41:36.000.672,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/27 12:51:13.000.173,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 09:16:31.000.770,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/06 10:11:25.000.858,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 14:03:20.000.441,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/20 14:03:55.000.583,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.dfm=F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmMain.dfm</Transaction>
+    <Transaction>2022/04/20 14:03:55.000.583,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit2.pas=F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmMain.pas</Transaction>
+    <Transaction>2022/04/20 14:05:27.000.117,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Projetos\RAD\11.0\SendEmail\prjSendEmail.dproj</Transaction>
+    <Transaction>2022/04/20 14:05:40.000.683,=F:\Projetos\RAD\11.0\SendEmail\src\Model\uDtm.pas</Transaction>
+    <Transaction>2022/04/20 14:05:58.000.202,=F:\Projetos\RAD\11.0\SendEmail\src\Class\uclassConfigIni.pas</Transaction>
+    <Transaction>2022/04/20 14:05:58.000.260,=F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassFactory.pas</Transaction>
+    <Transaction>2022/04/20 14:06:06.000.499,=F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmConfig.pas</Transaction>
+    <Transaction>2022/04/20 14:06:19.000.631,=F:\Projetos\RAD\11.0\SendEmail\src\Services\uMainService.pas</Transaction>
+    <Transaction>2022/04/20 14:06:35.000.340,F:\Projetos\RAD\11.0\SendEmail\src\Services\uMainService.pas=</Transaction>
+    <Transaction>2022/04/20 14:36:24.000.485,F:\Projetos\RAD\11.0\SendEmail\src\Class\uclassConfigIni.pas=</Transaction>
+    <Transaction>2022/04/22 13:47:58.000.237,=F:\Projetos\RAD\11.0\SendEmail\Unit1.pas</Transaction>
+    <Transaction>2022/04/22 13:48:14.000.630,F:\Projetos\RAD\11.0\SendEmail\Unit1.pas=F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassTable.pas</Transaction>
+    <Transaction>2022/04/22 15:00:51.000.716,F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmConfig.pas=</Transaction>
+    <Transaction>2022/04/22 16:43:57.000.274,F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassFactory.pas=F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassUtils.pas</Transaction>
+    <Transaction>2022/04/22 17:09:45.000.189,F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassUtils.pas=</Transaction>
+    <Transaction>2022/04/22 17:09:59.000.053,=F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassUtils.pas</Transaction>
+    <Transaction>2022/04/26 08:59:13.000.311,=F:\Projetos\RAD\11.0\SendEmail\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 09:00:14.000.218,F:\Projetos\RAD\11.0\SendEmail\src\Class\uClassIniFile.pas=F:\Projetos\RAD\11.0\SendEmail\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 15:26:37.000.148,=F:\Projetos\RAD\11.0\SendEmail\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 15:29:25.000.699,F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmSenha.dfm=F:\Projetos\RAD\11.0\SendEmail\Unit1.dfm</Transaction>
+    <Transaction>2022/04/26 15:29:25.000.699,F:\Projetos\RAD\11.0\SendEmail\src\comum\ufrmSenha.pas=F:\Projetos\RAD\11.0\SendEmail\Unit1.pas</Transaction>
+    <Transaction>2022/04/26 17:37:50.000.776,F:\Projetos\RAD\11.0\SendEmail\prjSendEmail.dproj=F:\Projetos\RAD\11.0\SendEmail\appSendEmail.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="src"/>
+    <File Path="src\Class"/>
+    <File Path="src\Class\uClassIniFile.pas"/>
+    <File Path="src\Class\uClassTable.pas"/>
+    <File Path="src\Class\uClassUtils.pas"/>
+    <File Path="src\comum"/>
+    <File Path="src\comum\ufrmMain.pas"/>
+    <File Path="src\comum\ufrmMain.dfm"/>
+    <File Path="src\comum\ufrmSenha.pas"/>
+    <File Path="src\comum\ufrmSenha.dfm"/>
+    <File Path="src\Model"/>
+    <File Path="src\Model\uDtm.pas"/>
+    <File Path="src\Model\uDtm.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
